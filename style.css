@@ -1,0 +1,24 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navBar {
+    display: flex;
+    
+}
+
+.logIn.pic {
+height: auto;
+width: 40px;
+}
+
+.matcha{
+height: auto;
+width: 500px;
+border-radius: 3px;
+}
+
+.sub-content {
+    display: flex;
+}
